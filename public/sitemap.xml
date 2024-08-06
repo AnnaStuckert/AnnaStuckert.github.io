@@ -6,28 +6,14 @@
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
+    <loc>http://localhost:1313/blog/behavior_analysis_resources/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blog/markdown_syntax/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blog/post_3/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blog/post_4/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blog/post_3-copy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/syntax/</loc>
+    <loc>http://localhost:1313/blog/computational_learning_ressources/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/themes/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/themes/</loc>
+    <loc>http://localhost:1313/blog/training_opportunities/</loc>
   </url>
 </urlset>
