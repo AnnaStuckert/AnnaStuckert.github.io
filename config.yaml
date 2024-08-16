@@ -64,6 +64,18 @@ params:
         company: University of St Andrews, School of Psychology and Neuroscience, Allodi Lab
         details: |1-
           - I recently started my PhD in Neuroscience, where I will be studying Frontotemporal Dementia (FTD) in a transgenic mouse model of the disease. The project investigates emotion expression changes as a symptom of the disease and seeks to classify emotions in mice based on facial expressions when navigating a VR environment, and during social interaction, and compare this ability in sick and healthy mice, and furthermore look at the neural correlates of disease and causal mechanisms using calcium imaging and optogenetics.
+      - position: DeepLabCut AI Resident
+        dates: 2024
+        #url: "#"
+        company: Mathis Labs, EPFL Geneva
+        details: |1-
+          - I was part of the 2024 DeepLabCut AI Residency groups in the MAthis Labs (founders of DeepLabCut). The residency furthered my knowledge of and experience in developing in deep learning methods aimed at animal behavior tracking and developing foundation models for behavior tracking, as well as open source software development, including documentation development and GitHub workflows, both for DLC and scikit-learn. The program offered talks and workshops with a host of inspiring speakers from Jupyter, scikit-learn, HuggingFace and previous DLC AI residents.
+      - position: Bonsai Course Organiser
+        dates: 2024
+        #url: "#"
+        company: University of St Andrews, School of Psychology and Neuroscience, Allodi Lab
+        details: |1-
+          - Organised and TA'ed a course on the software Bonsai.
       - position: Laboratory Assistant and MSc Thesis Student
         dates: 2022 - 2023
         #url: "#"
