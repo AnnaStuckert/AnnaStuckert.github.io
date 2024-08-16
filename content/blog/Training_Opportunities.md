@@ -1,5 +1,5 @@
 ---
-title: "Training Opportunities"
+title: "Training Opportunities and Conferences"
 description: ""
 draft: false
 ---
@@ -21,3 +21,9 @@ DeepLabCut is used for research in a growing range of fields: from animal conser
 To help ease this gap and train the next-gen, this new program is designed to host paid AI Residents exclusively selected from groups underrepresented in computer science. 
 
 The goal of this DeepLabCut AI Residency is to train and empower students to use and modify code, develop new add-ons, and become leaders within the DeepLabCut consortium and the open source community more broadly. To this end, our Residency Program will aim to recruit both more experienced users and novice users -- by having a mixture of backgrounds (both in terms of lived experiences and work experiences) working together, we will provide a nurturing environment where they can both learn more about DeepLabCut, open source practices, and develop new skills, while at the same time enabling them to contribute. 
+
+## [Euro SciPy](https://euroscipy.org)
+Euro SciPy is a conference for the Python community, allegedly with a mainly academic focus, and very cheap for students. Financial aid often available to underrepresented groups (e.g. cover ticket and some maintenance). Often will have both tutorials, sprints, talks, poster sessions - a very varied range of opportunities.
+
+## [PyData Conference](https://pydata.org/paris2024/)
+Many PyData Conferences exist, the example is PyData Paris. This conference is also aimed at the Python community with the focus more on industry, and also be quite cheap for students. 
