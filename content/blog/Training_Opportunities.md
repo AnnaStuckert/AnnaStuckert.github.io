@@ -1,6 +1,5 @@
 ---
 title: "Training Opportunities and Conferences"
-description: ""
 draft: false
 ---
 
@@ -27,3 +26,7 @@ Euro SciPy is a conference for the Python community, allegedly with a mainly aca
 
 ## [PyData Conference](https://pydata.org/paris2024/)
 Many PyData Conferences exist, the example is PyData Paris. This conference is also aimed at the Python community with the focus more on industry, and also be quite cheap for students. 
+
+## [Riken CBS Summer Program](https://cbs.riken.jp/en/summer/)
+The RIKEN Center for Brain Science (RIKEN CBS), located just outside Tokyo, Japan, offers a summer program to train advanced students interested in brain function. Applicants may choose either a 2-month laboratory internship (Plan A) within a RIKEN CBS laboratory or an intensive 5 days lecture course (Plan B) featuring a distinguished international faculty. Those participating in the internship may also enroll in the lecture course. The course consists of an intensive 5 days lecture series featuring distinguished international faculty and poster sessions to be put on by the program participants. These two components are equally important for the students to deepen their insight and enhance their expertise in neuroscience. While the lectures serve to introduce them to cutting-edge research being carried out throughout the world, the student poster session allows them to experience the work of their colleagues and share their own research. We encourage the students to take full advantage of the wonderful opportunities offered by this program to broaden the horizons of their research.
+Attendees come from wide-ranging academic backgrounds and are usually enrolled in graduate courses or have recently embarked on postdoctoral research. 

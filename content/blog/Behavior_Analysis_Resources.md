@@ -1,6 +1,5 @@
 ---
 title: "Behavior Analysis Resources"
-description: ""
 draft: false
 ---
 

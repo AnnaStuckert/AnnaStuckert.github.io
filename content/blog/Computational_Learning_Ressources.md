@@ -1,6 +1,5 @@
 ---
 title: "Computational Learning Ressources"
-description: ""
 draft: false
 ---
 
@@ -14,6 +13,6 @@ Great introductory course to deep learning, including more general concepts (e.g
 
 Book covering Computer Vision, from throughout history until today. Published in 2024, so highly up to date. Very mathematical, but spends good time visualising foundational concepts to aid understanding. Currently no online version.
 
-## [Hands-on Machine Learning with Scikit-Learn, Kerns and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
+## [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 
 Have not personally used this book yet but have had it recommended to me. Serves as a good guide to ML using TensorFlow, and comes with a [gitHub repo with notebooks for running the exercises](https://github.com/ageron/handson-ml3)
