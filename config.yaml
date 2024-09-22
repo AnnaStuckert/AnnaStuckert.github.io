@@ -62,11 +62,6 @@ params:
     title: Experience
     icon: fas fa-briefcase
     list:
-      - position: PhD Student
-        dates: 2023 - *Present*
-        company: University of St Andrews, School of Psychology and Neuroscience, Allodi Lab
-        details: |1-
-          - I recently started my PhD in Neuroscience, where I will be studying Frontotemporal Dementia (FTD) in a transgenic mouse model of the disease. The project investigates emotion expression changes as a symptom of the disease and seeks to classify emotions in mice based on facial expressions when navigating a VR environment, and during social interaction, and compare this ability in sick and healthy mice, and furthermore look at the neural correlates of disease and causal mechanisms using calcium imaging and optogenetics.
       - position: Postgraduate Demonstrator
         dates: 2023 - *Present*
         company: University of St Andrews, School of Psychology and Neuroscience
@@ -140,15 +135,23 @@ params:
         dates: 2023 - Present
         thesis_title: "Facing Dementia: Investigating Disease Onset in a Mouse Model of Frontotemporal Dementia via Artificial Intelligence"
         #thesis_url: "#"
+        details: |1-
+          - I am pursuing a PhD in Neuroscience, where I will be studying Frontotemporal Dementia (FTD) in a transgenic mouse model of the disease. The project investigates emotion expression changes as a symptom of the disease and seeks to classify emotions in mice based on facial expressions when navigating a VR environment, and during social interaction, and compare this ability in sick and healthy mice, and furthermore look at the neural correlates of disease and causal mechanisms using calcium imaging and optogenetics.
       - degree: M.Sc. in Neuroscience
         college: University of Copenhagen
+        college_url: https://studies.ku.dk/masters/neuroscience/
         dates: 2021 - 2023
         thesis_title: "Rescuing the Locomotor Phenotype by Systemic Administration of Extended Synaptotagmin 1 in a Mouse Model of Amyotrophic Lateral Sclerosis"
         #thesis_url: "#"
+        details: |1-
+          - MSc in neuroscience teaching molecular and cellular neurobiology, systems neuroscience, higher brain functions, and methodology within neuroscience including genetics, bioinformatics, neuroimaging, animal models and epidemiology. I have taken electives in computational neuroscience and genetic and viral technologies in animal models. I completed my master’s thesis in Allodi lab, working with systemic administration of gene therapy using an AAV-PHP.eB viral vector in a mouse model of ALS, with the goal of rescuing the motor phenotype and improving survival by stabilizing connections from inhibitory interneurons to motor neurons via hEsyt1 overexpression.
       - degree: B.Sc. in Cognitive Science
         college: University of Aarhus
+        college_url: https://bachelor.au.dk/en/cognitivescience
         dates: 2018 - 2021
         thesis_title: "What Does Your Heart Tell You? Investigating the Role of Interoception in Risk Preference and Bias"
+        details: |1-
+         - BSc focusing on cognition and neuroscience, as well as statistics, data science and programming for conducting our own experiments and simulation studies. In my thesis I investigated the interaction between interoception and decision-making. I have worked with eye-tracking, EEG, and fMRI, analysis and visualization of data, as well as manuscript writing. I took elective courses in memory, stress, biology of behavior, consumer behavior, and psychiatric disorders for one semester at Western University, Canada.
   publication:
     title: Publications and Presentations
     icon: fas fa-book
