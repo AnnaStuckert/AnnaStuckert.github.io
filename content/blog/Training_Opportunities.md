@@ -1,6 +1,7 @@
 ---
 title: "Training Opportunities and Conferences"
 draft: false
+date: 2024-09-22
 ---
 
 # Training opportunities

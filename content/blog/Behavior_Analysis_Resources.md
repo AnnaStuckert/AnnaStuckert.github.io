@@ -1,6 +1,7 @@
 ---
 title: "Behavior Analysis Resources"
 draft: false
+date: 2024-09-22
 ---
 
 # Behavior Analysis and Experiment Development Resources

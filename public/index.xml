@@ -6,25 +6,26 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 22 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Behavior Analysis Resources</title>
       <link>http://localhost:1313/blog/behavior_analysis_resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/behavior_analysis_resources/</guid>
       <description>Behavior Analysis and Experiment Development Resources Open Source DeepLabCut Open-source software toolbox for state-of-the-art markerless pose estimation of animals performing various behaviors. As long as you can see (label) what you want to track, you can use this toolbox, as it is animal and object agnostic. Currently the main branch employs DLC in TensorFlow, but DLC 3.0 using PyTorch is under development, go to the pytorch_dlc branch to try it out 💪🏼</description>
     </item>
     <item>
       <title>Computational Learning Ressources</title>
       <link>http://localhost:1313/blog/computational_learning_ressources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/computational_learning_ressources/</guid>
       <description>Computational Ressources Neuromatch Academy Deep Learning Course Great introductory course to deep learning, including more general concepts (e.g. Multilayer Perceptrons, Optimization, Regularisation), different architectures (e.g. Convnets, Recurrent Neural Networks, and Transformers), as well as other advanced concepts, all conducted in PyTorch&#xA;Foundations of Computer Vision Book covering Computer Vision, from throughout history until today. Published in 2024, so highly up to date. Very mathematical, but spends good time visualising foundational concepts to aid understanding.</description>
     </item>
     <item>
       <title>Training Opportunities and Conferences</title>
       <link>http://localhost:1313/blog/training_opportunities/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/training_opportunities/</guid>
       <description>Training opportunities BAMB - Barcelona summer school on Advanced Modelling of Behavior Course philosophy Our goal is​ to teach advanced techniques in model-based analysis of behavior (humans and other animals) to cognitive and computational neuroscientists at PhD and early career levels. This will be achieved through structured lectures and talks, together with a strong focus on hands-on tutorials and group projects aimed at making the obtained knowledge directly applicable to the participants&amp;rsquo; own research.</description>
     </item>

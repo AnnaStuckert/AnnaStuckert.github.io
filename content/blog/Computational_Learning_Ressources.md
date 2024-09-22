@@ -1,6 +1,7 @@
 ---
 title: "Computational Learning Ressources"
 draft: false
+date: 2024-09-22
 ---
 
 # Computational Ressources
