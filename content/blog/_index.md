@@ -1,4 +1,4 @@
 ---
-title: "Ressources"
+title: "Resources"
 weight: 100
 ---
