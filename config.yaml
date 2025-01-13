@@ -67,8 +67,10 @@ params:
         company: University of St Andrews, School of Psychology and Neuroscience
         details: |1-
           - I am demonstrating and/or marking on the following courses:
-            - PN2202 Neuroscience, marking exams
+            - PN2202 Neuroscience, demonstrating on lab practicals covering neuroanatomy and neurophysiology, and
+marking exams and lab reports.
             - PN3313 Neuroscience, demonstrating and marking lab exercises on axonal conductance in earthworms
+            - PN3037 Perception, marking exams
             - PN4108 Neuroscience, organization of and demonstration on computational lab sessions on behavioral analysis of animal models in neuroscience using DeepLabCut
       - position: DeepLabCut AI Resident
         dates: 2024
