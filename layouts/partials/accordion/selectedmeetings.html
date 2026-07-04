@@ -1,0 +1,11 @@
+{{ range .Site.Params.selectedmeetings.list }}
+<h4 style="text-decoration: underline;">{{ .title }}</h4>
+<p {{ if .details }}class="mb-0"{{ end }}>
+  {{ .dates }} &middot; {{ .location }}
+</p>
+{{ if .details }}
+<div class="prose prose-stone dark:prose-invert max-w-none">
+  <p>{{ .details }}</p>
+</div>
+{{ end }}
+{{ end }}

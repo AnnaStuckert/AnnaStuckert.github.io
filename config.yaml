@@ -53,11 +53,14 @@ params:
     #- item: project #previously projects, now skills
     #- item: skill
     - item: hobby
+    - item: selectedmeetings
+    - item: awards
+    - item: certificates
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: I am a PhD student at the School of Psychology and Neuroscience at University of St Andrews, where I am part of the Allodi Lab. In my research I am studying how emotion processing changes in health and disease. Specifically I investigate changes in emotional processing in a mouse model of Frontotemporal Dementia using machine-learning based behavioural analysis, calcium imaging, and histology. I’m an advocate for open-source software, and am part of the 2024 cohort of the DeepLabCut AI Residency program.
-    
+    description: I am a PhD student at the School of Psychology and Neuroscience at University of St Andrews, where I am part of the Allodi Lab. In my research I am studying how affective processing changes in health and disease. Specifically I investigate changes in emotional processing and sociability, along with other cognitive parameters, in a mouse model of Frontotemporal Dementia and ALS using machine-learning based behavioural analysis, calcium imaging, opto/chemogenetics, and histology. I'm an advocate for open-source software, and was part of the 2024 cohort of the DeepLabCut AI Residency program.
+
   experience:
     title: Experience
     icon: fas fa-briefcase
@@ -66,11 +69,10 @@ params:
         dates: 2023 - *Present*
         company: University of St Andrews, School of Psychology and Neuroscience
         details: |1-
-          - I am demonstrating and/or marking on the following courses:
-            - PN2202 Neuroscience, demonstrating and marking lab practicals and exams on neuroanatomy/-physiology
-            - PN3313 Neuroscience, demonstrating and marking lab exercises on axonal conductance in earthworms
-            - PN3037 Perception, marking exams
-            - PN4108 Neuroscience, organization of and demonstration on computational lab sessions on behavioral analysis of animal models in neuroscience using DeepLabCut
+          - PN2202 Neuroscience, demonstrating and marking lab practicals and exams on neuroanatomy/-physiology
+          - PN3313 Neuroscience, demonstrating and marking lab exercises on axonal conductance in earthworms
+          - PN3037 Perception, marking exams
+          - PN4108 Neuroscience, organization of and demonstration on computational lab sessions on behavioral analysis of animal models in neuroscience using DeepLabCut
       - position: DeepLabCut AI Resident
         dates: 2024
         #url: "#"
@@ -116,7 +118,7 @@ params:
       - position: Research Assistant
         dates: 2019 - 2021
         #url: "#"
-        company: Aarhus University, Department of Clinical Medicine, Danish Pain Research Center 
+        company: Aarhus University, Department of Clinical Medicine, Danish Pain Research Center
         details: |1-
           - Assisting with data collection and experiment optimization on a study investigating spinal integration of thermal pain, a study on lidocaine and pain perception, and a study on olfaction and pain perception.
       - position: Research Assistant
@@ -145,7 +147,7 @@ params:
         thesis_title: "Rescuing the Locomotor Phenotype by Systemic Administration of Extended Synaptotagmin 1 in a Mouse Model of Amyotrophic Lateral Sclerosis"
         #thesis_url: "#"
         details: |1-
-          - MSc in neuroscience teaching molecular and cellular neurobiology, systems neuroscience, higher brain functions, and methodology within neuroscience including genetics, bioinformatics, neuroimaging, animal models and epidemiology. I have taken electives in computational neuroscience and genetic and viral technologies in animal models. I completed my master’s thesis in Allodi lab, working with systemic administration of gene therapy using an AAV-PHP.eB viral vector in a mouse model of ALS, with the goal of rescuing the motor phenotype and improving survival by stabilizing connections from inhibitory interneurons to motor neurons via hEsyt1 overexpression.
+          - MSc in neuroscience teaching molecular and cellular neurobiology, systems neuroscience, higher brain functions, and methodology within neuroscience including genetics, bioinformatics, neuroimaging, animal models and epidemiology. I have taken electives in computational neuroscience and genetic and viral technologies in animal models. I completed my master's thesis in Allodi lab, working with systemic administration of gene therapy using an AAV-PHP.eB viral vector in a mouse model of ALS, with the goal of rescuing the motor phenotype and improving survival by stabilizing connections from inhibitory interneurons to motor neurons via hEsyt1 overexpression.
       - degree: B.Sc. in Cognitive Science
         college: University of Aarhus
         college_url: https://bachelor.au.dk/en/cognitivescience
@@ -163,7 +165,9 @@ params:
       - journal
     types:
       - Journal Articles
-      - Presentations
+      - Posters
+      - Talks
+      - Workshops
     list:
       - title: >-
           Stabilization of V1 interneuron-motor neuron connectivity ameliorates motor phenotype in a mouse model of ALS
@@ -187,57 +191,70 @@ params:
         url: "https://www.biorxiv.org/content/10.1101/2023.08.24.554485v2.abstract"
         type: Journal Articles
       - title: >-
+          Investigating the early FTD phenotypes and neural dysfunction in a mouse model of TDP-43 proteinopathy
+        authors: "Stuckert, A. et al."
+        date: "2026"
+        journal: "FENS Forum; FENS Motor Control Satellite Meeting"
+        type: Posters
+      - title: >-
+          Investigating the early FTD phenotypes in a mouse model of TDP-43 proteinopathy
+        authors: "Stuckert, A. et al."
+        date: "2025"
+        journal: "IRCN & Chen Institute Course on Neuro-inspired Computation; Scottish Neuroscience Group Meeting; St Andrews Motor Meeting; St Andrews PGR Poster Session"
+        type: Posters
+      - title: >-
           Facing Dementia: Investigating Disease Onset in a Mouse Model of Frontotemporal Dementia via Artificial Intelligence
         authors: "Stuckert, A., Selvan, R., Allodi, I."
         date: "2024"
         journal: "Research Postgraduate Poster Session, University of St Andrews"
-        #url: "#"
-        type: Presentations
+        type: Posters
+      - title: >-
+          Rescue of ALS phenotype by Esyt1 systemic overexpression in the SOD1G93A mouse model
+        authors: "Stuckert, A., Mora, S., Pietersz, K., Selvan, R., Verhaagen, J., Allodi, I."
+        date: "2023"
+        journal: "Society for Neuroscience (Abstract No. 6417); Pre-SfN Motor Symposium (Abstract No. 60); St Andrews Motor Meeting (Abstract No. 21)"
+        type: Posters
+      - title: >-
+          Machine-Learning Driven Analysis of Behaviour in Disease
+        authors: "Stuckert, A."
+        date: "2026"
+        journal: "PhD course on Machine Learning for Science, University of Copenhagen"
+        type: Talks
+      - title: >-
+          Investigating the early FTD phenotypes in a mouse model of TDP-43 proteinopathy
+        authors: "Stuckert, A. et al."
+        date: "2025"
+        journal: "Mackenzie Institute Early Diagnostics Symposium; PGR Psycoloquia, University of St Andrews"
+        type: Talks
       - title: >-
           Facing Dementia: Investigating Disease Onset in a Mouse Model of Frontotemporal Dementia via Artificial Intelligence
         authors: "Stuckert, A., Selvan, R., Allodi, I."
         date: "2024"
-        journal: "Psycholoquia, University of St Andrews"
-        #url: "#"
-        type: Presentations
+        journal: "PGR Psycholoquia, University of St Andrews"
+        type: Talks
       - title: >-
-          Rescue of ALS phenotype by Esyt1 systemic overexpression in the SOD1G93A mouse
-        authors: "Stuckert, A., Mora, S, Pietersz, K., Selvan, R, Verhaagen, J., Allodi, I. "
-        date: "2023"
-        journal: "Abstract No. 6417, Society for Neuroscience conference"
-        #url: "#"
-        type: Presentations
-      - title: >-
-          Rescue of ALS phenotype by Esyt1 systemic overexpression in the SOD1G93A mouse
-        authors: "Stuckert, A., Mora, S, Pietersz, K., Selvan, R, Verhaagen, J., Allodi, I. "
-        date: "2023"
-        journal: "Abstract No. 60, pre-SfN Motor Symposium"
-        #url: "#"
-        type: Presentations
-      - title: >-
-          Rescue of ALS phenotype by Esyt1 systemic overexpression in the SOD1G93A mouse
-        authors: "Stuckert, A., Mora, S, Pietersz, K., Selvan, R, Verhaagen, J., Allodi, I. "
-        date: "2023"
-        journal: "Abstract No. 21, St. Andrews Motor Meeting"
-        #url: "#"
-        type: Presentations
+          Machine Learning-Driven Analysis of Behaviour in Animal Models
+        authors: "Stuckert, A."
+        date: "2025"
+        journal: "European Behavioural Pharmacology Society Biennial Meeting"
+        type: Workshops
   #project:
   #  title: Skills
   #  icon: fas fa-cogs #previously fas fa-project-diagram
   #  list:
-  #    - title: Python/DeepLabCut (gait analysis and software development)  
+  #    - title: Python/DeepLabCut (gait analysis and software development)
   #    - title: R/Rstudio (data analysis, visualization, machine learning
   #    - title: Frequentist and Bayesian statistics
-  #    - title: Meta-analysis   
+  #    - title: Meta-analysis
   #    - title: Immunohistochemistry
   #    - title: Behavioral Experiments
   #    - title: Transgenic Mouse Colony Management
-  #    - title: ImageJ (motor neuron quantification)   
-  #    - title: Godot/Blender (VR video game and stimuli creation) 
+  #    - title: ImageJ (motor neuron quantification)
+  #    - title: Godot/Blender (VR video game and stimuli creation)
   #    - title: Bonsai (stimulus and VR workflow setup)
   #    - title: Python/PsychoPy (coding experiments)
   #    - title: MATLAB/SPM12/CONN (fMRI and EEG analysis)
-  #    - title: Eye- and mouse tracking      
+  #    - title: Eye- and mouse tracking
   #skill:
   #  title: Skills
   #  panelId: skill-panel
@@ -253,16 +270,49 @@ params:
     title: Skills
     icon:  fas fa-cogs #previously fas fa-gamepad
     list:
-      - hobby: Python/DeepLabCut (gait analysis and software development) 
-      - hobby: R/Rstudio (data analysis, visualization, machine learning
-      - hobby: Behavioral Experiments
-      - hobby: Transgenic Mouse Colony Management
-      - hobby: Immunohistochemistry
-      - hobby: ImageJ (motor neuron quantification)   
-      - hobby: Godot/Blender (VR video game and stimuli creation) 
-      - hobby: Bonsai (stimulus and VR workflow setup)
+      - hobby: Python (DeepLabCut, PsychoPy, PyTorch) — gait analysis, experiment coding, deep learning
+      - hobby: R/RStudio (data analysis, visualization, machine learning)
+      - hobby: MATLAB (SPM12, CONN) — fMRI and EEG analysis
       - hobby: Frequentist and Bayesian statistics
-      - hobby: Meta-analysis  
-      - hobby: Python/PsychoPy (coding experiments)
-      - hobby: MATLAB/SPM12/CONN (fMRI and EEG analysis)
-      - hobby: Eye- and mouse tracking 
+      - hobby: Meta-analysis
+      - hobby: Eye- and mouse tracking
+      - hobby: VR development (Godot, Blender)
+      - hobby: Bonsai (stimulus and VR workflow setup)
+      - hobby: LaTeX and MyST (scientific writing and documentation)
+      - hobby: Behavioral experiments
+      - hobby: Transgenic mouse colony management
+      - hobby: Stereotaxic viral injections
+      - hobby: Fiber photometry and head fixation
+      - hobby: Immunohistochemistry
+      - hobby: Confocal microscopy
+      - hobby: Genotyping and qPCR
+      - hobby: Design and build of behavioral rigs
+      - hobby: ImageJ (motor neuron quantification)
+
+  selectedmeetings:
+    title: Selected Meetings
+    icon: fas fa-globe
+    list:
+      - title: 75th Lindau Nobel Laureate Meeting (Interdisciplinary)
+        dates: Jun - Jul 2026
+        location: Lindau, Germany
+        details: Nominated by the University of St Andrews, selected by EMBO and the Lindau Nobel Committee
+
+  awards:
+    title: Grants, Stipends and Awards
+    icon: fas fa-award
+    list:
+      - award: "Poster Prize — IRCN & Chen Institute Course on Neuro-inspired Computation"
+      - award: "Funds for Women Graduates Foundation Grant (£6,400 / $8,500 USD)"
+      - award: "RS Macdonald Trust Neurophotonics Award (£8,500 / $11,500 USD)"
+      - award: "2022–2023 Danish Society for Neuroscience Scholarstipend (140,000 DKK / $19,500 USD)"
+      - award: "The Augustinus Foundation Grant (24,000 DKK / $3,300 USD)"
+      - award: "Familien Hede Nielsens Foundation Grant (10,000 DKK / $1,400 USD)"
+      - award: "Knud Højgaards Foundation Grant (22,000 DKK / $3,000 USD)"
+
+  certificates:
+    title: Certificates
+    icon: fas fa-certificate
+    list:
+      - certificate: "FELASA certified to work with laboratory animals under function A, B and D (Certificate No. ABDF032/10/22-327)"
+      - certificate: "PIL certified to work with laboratory animals under function A, B and C (PIL No. I95319262 A/B/C)"
